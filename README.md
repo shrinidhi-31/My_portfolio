@@ -5,8 +5,8 @@
 ## About Me
 - Interested in Artificial Intelligence and Machine Learning.
 - Exploring Software Development and UI/UX Design.
-- Exploring new intern oppurtunities.
-- Learning new technologies and building projects.
+- Actively exploring internship opportunities.
+- Learning new technologies and building practical projects.
 - Core Team Member of AiFI – The AIML Club.
 
 ## Technical Skills
@@ -24,16 +24,24 @@
 - AnimeFlix
 - AI Network Configuration System
 
-## Certifications
-- Certificate on completion of course Python For Data Science
-- Certification of Appreciation on the successful conduction of tech fest from AIFI 
+## Certifications & Recognition
+- Python for Data Science – Certificate of Course Completion.
+- Certificate of Appreciation – Recognised for contributing to the successful conduction of AiFI Tech Fest.
+- Certificate of Appreciation – Recognised for being part of the AiFI Event Organising Team.
 
-## Achievements & Activities
-- Core Team Member – AiFI
-- Social Media Co-Lead - AiFi Community
-- Participated in technical events and hackathons.
+## Achievements
+- Participated in the Smart India Hackathon (SIH) Internal Round with the AI Network Configuration System project.
+- Contributed to technical event organisation and coordination through AiFI.
+- Core Team Member – AiFI, The AIML Club, REVA University.
+- Social Media Co-Lead – AiFI Community.
+
+## Leadership & Activities
+- Actively involved in AiFI club activities and initiatives.
+- Contributed to event planning, organisation and execution.
+- Involved in social media management and content creation for AiFI.
+- Participated in technical events, collaborative projects and hackathons.
 
 ## Connect With Me
-- LinkedIn: www.linkedin.com/in/shrinidhi-badiger-b0845a384
-- GitHub: https://github.com/shrinidhi-31
-- Email: shrinidhisbadiger@gmail.com
+- LinkedIn: [Shrinidhi Badiger](https://www.linkedin.com/in/shrinidhi-badiger-b0845a384)
+- GitHub: [shrinidhi-31](https://github.com/shrinidhi-31)
+- Email: [shrinidhisbadiger@gmail.com](mailto:shrinidhisbadiger@gmail.com)
