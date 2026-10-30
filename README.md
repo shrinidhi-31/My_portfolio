@@ -35,5 +35,5 @@
 
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/shrinidhi-badiger-b0845a384
-- GitHub: Your GitHub URL
+- GitHub: https://github.com/shrinidhi-31
 - Email: shrinidhisbadiger@gmail.com
